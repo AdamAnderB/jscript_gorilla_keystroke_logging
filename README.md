@@ -113,9 +113,17 @@ If you use or adapt this code in a thesis, article, or dataset, please cite:
 > **Bramlett, A. A. (2025).** *Eye-Tracking + Keystroke Logging (WebGazer + JS)* $begin:math:display$Code repository$end:math:display$. GitHub.  
 > [https://github.com/AdamAnderB/jscript_gorilla_keystroke_logging](https://github.com/AdamAnderB/jscript_gorilla_keystroke_logging)
 
-And, where relevant:
+And, where relevant, cite the corresponding methodological or conceptual paper:
 
-> **Bramlett & Wiener (2025).** *Focus Processing in L1 and L2 English.* *Research Methods in Applied Linguistics.*
+Option 1 (Replication framework):
+Bramlett, A. A., & Wiener, S. (2025). Focus (on) replication: The fidelity, refinement, and exploratory extension (FiREE) replication framework. Research Methods in Applied Linguistics.
+
+Option 2 (Modeling and analysis approach):
+Bramlett, A. A., & Wiener, S. (2025). Individual differences modulate predictive lexical stress processing in Italian: A close replication and LASSO extension of Sulpizio and McQueen (2012). Cultural Cognitive Science.
+
+Option 3 (Open data and reporting practices):
+Bramlett, A. A., & Wiener, S. (2024). The Art of Wrangling: Best practices for reporting web-based eye-tracking data in language research. Linguistic Approaches to Bilingualism.
+https://github.com/AdamAnderB/AoW
 
 ---
 
