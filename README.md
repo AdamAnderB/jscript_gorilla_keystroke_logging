@@ -131,7 +131,7 @@ https://github.com/AdamAnderB/AoW
 
 Developed by **Adam A. Bramlett** at **Carnegie Mellon University’s LAPP Lab**, as part of ongoing research on **web-based cognitive and language processing** supported by the **Graduate Assessment Fellows Program**.
 
-Special thanks to **Theres Grüter** for early feedback and to **Yoonseo Kim** for piloting the integration in her dissertation.
+Special thanks to **Yoonseo Kim** for piloting the integration in her dissertation.
 
 ---
 
